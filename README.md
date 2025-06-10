@@ -22,12 +22,31 @@ pixisphere-backend/
 ├── server.js # Optional custom server using Express
 ├── package.json # Project config & dependencies
 └── README.md # Project documentation
+
+
+
+
+
+
+
+
+
+
+
 2. Install Dependencies
 bash
 Copy
 Edit
 npm install
-3. Run the Server
+
+
+
+
+
+
+4. Run the Server
+
+
 Option 1: Run with JSON Server directly
 bash
 Copy
@@ -38,7 +57,12 @@ bash
 Copy
 Edit
 node server.js
+
+
+
 ✅ By default, the server runs on: http://localhost:10000/
 📜 License
+
+
 This project is licensed under the MIT License.
 
