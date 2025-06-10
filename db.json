@@ -1,0 +1,12 @@
+{
+  "photographers": [
+    {
+      "id": 1,
+      "name": "Aditya Dubey",
+      "location": "Delhi",
+      "reviews": [
+        { "date": "2024-09-10" }
+      ]
+    }
+  ]
+}
